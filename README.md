@@ -1,2 +1,0 @@
-# New-Repostory
-About python 
